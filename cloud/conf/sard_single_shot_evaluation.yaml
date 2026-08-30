@@ -1,0 +1,14 @@
+defaults: 
+  - _self_
+  - vlm: llava-13b-fp16
+#  - override hydra/launcher: submitit_local
+
+experiment: "sar_injury"
+detector: "yolo" #,sam_hq
+
+hydra:
+  sweeper: 
+    params:
+      vlm: llava-13b-fp16 #, llava-7b-fp16, paligemma
+      experiment: sar_shirt_blue, sar_shirt_green
+      #experiment: sar_person, sar_shirt_gray, sar_shirt_green, sar_shirt_blue, sar_pose_laying, sar_pose_standing, sar_pose_sitting, sar_injury

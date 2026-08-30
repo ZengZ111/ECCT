@@ -1,0 +1,26 @@
+person: a person in a blue shirt riding a bike
+person1: a person wearing a white shirt
+person10: a person wearing a dark blue shirt
+person11: a person wearing a dark blue shirt
+person12: a person wearing a white and green striped shirt
+person13: a person in a white and green striped shirt walking
+person14: a person in a white shirt standing
+person15: a person in a green shirt walking on the street
+person16: a person in a green shirt
+person17: a person in a green shirt walking
+person18: a person wearing a black suit and a white hat
+person19: a person wearing a black suit and a white hat
+person1_s: a person in orange and black clothes
+person2: a person wearing a white shirt
+person20: a person wearing a black suit and a white hat
+person22: a person in a white shirt walking
+person23: a person wearing a dark blue shirt
+person2_s: a person in orange and black clothes walking
+person3: a person wearing a white shirt
+person3_s: a person in orange and black clothes walking
+person4: a person wearing a white shirt
+person5: a person wearing a red shirt
+person6: a person wearing a red shirt
+person7: a person wearing a red shirt
+person8: a person wearing a blue shirt
+person9: a person wearing a dark blue shirt and a black pants
